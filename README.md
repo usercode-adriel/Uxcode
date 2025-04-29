@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 Habilidades Técnicas
+## 🧠 Skills
 
 ### 📌 Linguagens & Frameworks  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
@@ -41,4 +41,4 @@
 
 ---
 
-> “Código bom é aquele que funciona. Código excelente é aquele que alguém consegue entender.”
+> “A simplicidade é uma grande virtude. Mas requer trabalho duro para alcançá-la. - Edsger Dijkstra”
