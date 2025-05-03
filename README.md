@@ -2,7 +2,7 @@
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Desenvolvedor Full Stack em constante evolução  
-🚀 Fundador da **UXCODE**, startup focada em software com experiência de usuário no centro
+🚀 Fundador da **CODENIAC**, startup focada em software com experiência de usuário no centro
 
 ---
 
@@ -40,7 +40,7 @@
 ## 💼 Atualmente
 
 - 👨‍💻 Desenvolvendo sistemas web e apps mobile  
-- 🧪 Prototipando ideias na **UXCODE**  
+- 🧪 Prototipando ideias na **CODENIAC**  
 - 📚 Estudando Engenharia de Software, UX e Arquitetura  
 
 ---
